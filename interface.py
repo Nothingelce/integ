@@ -9,7 +9,7 @@ class InterfaceExcel:
         self.root.title("Interface Excel")
         self.df = None
         self.filepath = None
-
+        #merci au youtuber.
         # Cadre pour les boutons
         frame_buttons = tk.Frame(root)
         frame_buttons.pack(pady=20)
